@@ -1,19 +1,41 @@
-# Node Typescript Project Template
+<h1 align="center">Welcome to Node TypeScript Project Template 👋</h1>
+<p>
+  <a href="https://www.npmjs.com/package/template" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/template.svg">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/snyderling\_" target="_blank">
+    <img alt="Twitter: snyderling_" src="https://img.shields.io/twitter/follow/snyderling_.svg?style=social" />
+  </a>
+</p>
 
-# How to use
-1. download the repo with either `npx degit GypsyDangerous/node-typescript-project-template` to only get the last commit or `git clone GypsyDangerous/node-typescript-project-template.git` to get the whole git history
-2. cd into the project
-3. if you used git clone use ` git remote rm origin` to remove the origin remote so you can add your own.
-4. install the dependencies with `npm i`
-5. go into the `package.json` and change the details to what you want
-6. start making your project
+> Template to easily get started making stuff in node with typescript
 
-# Contributing
-Any contributions are welcome, whether you are improving the existing files or adding more. Just make a pull or submit an issue
+## Install
 
-# Download for development
-1. fork the repo
-2. download the fork with `git clone <Your name>/node-typescript-project-template.git`
-3. cd into the project
-4. install the dependencies with `npm i`
-6. start developing
+```sh
+npx degit GypsyDangerous/node-typescript-project-template
+```
+
+## Usage
+
+```
+ - go into the package json and change the details to yours
+ - start coding in src/index.ts
+```
+
+## Author
+
+👤 **David Snyder**
+
+* Twitter: [@snyderling_](https://twitter.com/snyderling_)
+* Github: [@gypsydangerous](https://github.com/gypsydangerous)
+
+## Contributing
+All contributions are welcome. Whether you are adding more files or improving the current ones. Just create a pull request or open an issue ♥
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
