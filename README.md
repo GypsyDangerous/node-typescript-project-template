@@ -6,7 +6,7 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/snyderling\_" target="_blank">
+  <a href="https://twitter.com/snyderling_" target="_blank">
     <img alt="Twitter: snyderling_" src="https://img.shields.io/twitter/follow/snyderling_.svg?style=social" />
   </a>
 </p>
